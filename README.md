@@ -33,10 +33,8 @@ The goal is to create a visually rich, interactive dashboard that helps **market
 
 ## 📂 Project Structure
 nstagram-Influencers-Dashboard/
-- │
 - ├── 📁 Dataset/
 - │ └── Influencers.csv
-- │
 - ├── 📁 PowerBI/
 - │ └── Instagram_Influencers_Dashboard.pbix
 
